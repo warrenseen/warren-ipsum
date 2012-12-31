@@ -1,4 +1,4 @@
-warren-ipsum
+Warren Ipsum
 ============
 
-.txt source for warrenipsum.com
+.txt source for [warrenipsum.com](http://www.warrenipsum.com)
